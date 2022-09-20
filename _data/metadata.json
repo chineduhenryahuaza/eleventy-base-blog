@@ -1,8 +1,8 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Brokeboiz Worldwide",
+  "url": "https://brookbois-worldwde.netlify.app/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "The blog is about clothes, How you dress is how you are addressed. When it comes to fashion,visuals are key and brokeboiz worldwide is key in bringing this to reality",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Ochill and KingFab",
+    "email": "brookboisworldwide@gmail.com",
+    "url": "https://brookbois-worldwde.netlify.app/"
   }
 }
